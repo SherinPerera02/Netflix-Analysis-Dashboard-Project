@@ -4,7 +4,7 @@
 This project involves creating a Power BI dashboard to analyze and visualize data from a Netflix dataset. The dashboard provides insights into Netflix's content library, including trends in show additions, ratings, genres, and more.
 
 # Dataset
-The dataset is sourced from a CSV file containing the following columns:
+**The dataset is sourced from a CSV file containing the following columns**
 
 show_id: Unique identifier for each show.
 
@@ -36,14 +36,14 @@ listed_in: Genres of the show.
 # Data Preparation
 
 
-Data Cleaning and Transformation:
+**Data Cleaning and Transformation**
 
 Used Excel's text-to-column functionality to split entries in cast, countries, directors, and listed_in columns.
 Saved transformed columns as separate CSV files.
 Replaced empty cells with NULL values.
 
 
-Database Setup:
+**Database Setup**
 
 Created a MySQL schema.
 
@@ -53,16 +53,16 @@ Imported CSV data into MySQL tables.
 
 Power BI Dashboard
 
-Connecting to Data:
+**Connecting to Data**
 
 Connected Power BI to MySQL database.
 
 Imported relevant tables for analysis.
 
 
-# Dashboard Pages:
+# Dashboard Pages
 
-Overview Page:
+**Overview Page**
 
 Area Chart: Trend of shows added to Netflix over the years (post-2012).
 
@@ -73,7 +73,7 @@ Clustered Bar Chart: Count of shows by genre.
 Map: Geographic distribution of shows.
 
 
-Single Title View Page:
+**Single Title View Page**
 
 Slicer: Select specific movie/show by title.
 

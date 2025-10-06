@@ -74,7 +74,11 @@ Map: Geographic distribution of shows.
 
 
 Single Title View Page:
+
 Slicer: Select specific movie/show by title.
+
 Cards: Display details (release year, rating, description).
+
 Map: Show country of origin.
+
 Multirow Cards: Display genres, cast, directors.

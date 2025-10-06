@@ -82,3 +82,6 @@ Cards: Display details (release year, rating, description).
 Map: Show country of origin.
 
 Multirow Cards: Display genres, cast, directors.
+
+<img width="1242" height="741" alt="image" src="https://github.com/user-attachments/assets/e3674901-50b3-4dfa-b75c-0f8613ec2eb4" />
+

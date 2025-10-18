@@ -83,8 +83,7 @@ Map: Show country of origin.
 
 Multirow Cards: Display genres, cast, directors.
 
-<img width="1242" height="741" alt="image" src="https://github.com/user-attachments/assets/e3674901-50b3-4dfa-b75c-0f8613ec2eb4" />
 
-<img width="1244" height="741" alt="image" src="https://github.com/user-attachments/assets/d4b71a08-9913-447f-86cc-4b751f49a67c" />
+
 
 
